@@ -1,6 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Brian RIMI </h1>
 
-![github_cover_banner](https://www.canva.com/design/DAFnv70ga9c/XBSzT9zKCqGZcUX1JiimSQ/view)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Hi👋My name is Brian Rimi. A senior Full-stack Developer and Passionate developer relations engineer try to be as much of a problem solver as i can.
